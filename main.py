@@ -1,2 +1,6 @@
 print("Nombre: Juan Angel Pastor")
 print("Carnet: 1555523")
+print("Datos de la universidad")
+print("Nombre: Universidad Rafael Landivar")
+print("Direccion: 14 Avenida, Quetzaltenango")
+print("Telefono: 7722 9900")
